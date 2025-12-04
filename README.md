@@ -4,7 +4,8 @@
 Shield is being built incrementally, with new capabilities added over time.
 
 For the latest feature set, roadmap, and documentation, visit:  
-👉 **https://palavitech.com**
+🌐 https://palavitech.com  
+🌐 https://www.palavi.tech/palavitech-shield
 
 ---
 
@@ -50,9 +51,7 @@ This license allows free personal and internal use while restricting:
 
 ## 📬 Contact
 
-For support, feature discussions, security assessments, or enterprise licensing:
-
 **PalaviTech Security**  
 📧 contact@palavitech.com  
-🌐 https://palavitech.com
+🌐 https://palavitech.com  
 🌐 https://www.palavi.tech/palavitech-shield
