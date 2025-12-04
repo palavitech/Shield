@@ -55,3 +55,4 @@ For support, feature discussions, security assessments, or enterprise licensing:
 **PalaviTech Security**  
 📧 contact@palavitech.com  
 🌐 https://palavitech.com
+🌐 https://www.palavi.tech/palavitech-shield
