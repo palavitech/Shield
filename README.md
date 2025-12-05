@@ -21,6 +21,7 @@ Compiled binaries for current releases are available here:
 
 ## 🔧 Usage
 
+No installation required.
 Run Shield directly from the command line:
 
 ```bash
